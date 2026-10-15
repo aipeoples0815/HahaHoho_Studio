@@ -1,0 +1,6 @@
+{
+  "name": "2026 바이킹 비어밤 & 하하호호 스튜디오 AI 팀",
+  "description": "2026 바이킹 비어밤 & 하하호호 스튜디오 AI 팀 - 7080 고전 영화, 비어밤 수제맥주 광고, 궁중 한복, 바이킹 판타지, 서구권 빈티지 5대 테마 초고화질 인생 화보 AI 사진관",
+  "version": "2.0.0",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

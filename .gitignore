@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+_설치파일/app/node_modules/
+
+# Environment variables & secrets (절대 커밋 금지!)
+.env
+*.env
+!.env.example
+
+# Customer runtime data & logs (개인정보 및 생성 사진 제외)
+data/
+logs/
+uploads/
+output/
+C_하하호호스튜디오/
+
+# Large binary reference images (원할 경우 Git LFS 사용 또는 로컬 유지)
+_설치파일/레퍼런스/
+_설치파일/app.zip
+*.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db

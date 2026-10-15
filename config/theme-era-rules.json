@@ -1,0 +1,33 @@
+{
+  "_설명": "테마별 '시대 소품 규칙' (2026-10-14 v5.2, 대표님 결정 3: '오랜 옛날 안경도 없었던 시절에는 안경같은 소품은 빼야될 것 같아요'). 키 = 테마 폴더 이름(번호 포함, 레퍼런스 폴더 그대로). noGlasses = true 이면 표본 안경 정보와 상관없이 결과에 어떤 안경·선글라스도 넣지 않음. noModernAccessories = true 이면 손님 사진에만 있는 현대 장신구(현대식 귀걸이·피어싱 등)를 넣지 않음. era = AI에게 알려 줄 시대(영어). 여기 없는 테마(조타카이 맥주 = 현대)는 시대 제한 없음(표본을 따름). 고친 뒤 서버를 다시 켤 필요 없음.",
+  "1. 궁중한복": {
+    "era": "the Joseon dynasty (Korean royal court)",
+    "noGlasses": true,
+    "noModernAccessories": true
+  },
+  "7. 혼문": {
+    "era": "a Joseon-dynasty dark-fantasy world",
+    "noGlasses": true,
+    "noModernAccessories": true
+  },
+  "4. 비어밤_바이킹": {
+    "era": "the Viking age",
+    "noGlasses": true,
+    "noModernAccessories": true
+  },
+  "2. 7080년대 영화배우": {
+    "era": "the 1970s-80s",
+    "noGlasses": false,
+    "noModernAccessories": true
+  },
+  "3. 7080년대 명동교복": {
+    "era": "the 1970s-80s",
+    "noGlasses": false,
+    "noModernAccessories": true
+  },
+  "6. 핀업걸": {
+    "era": "the 1950s",
+    "noGlasses": false,
+    "noModernAccessories": true
+  }
+}

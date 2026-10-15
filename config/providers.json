@@ -1,0 +1,18 @@
+{
+  "_설명": "AI 제공사별 손님 동의 화면 문구. 행사 설정의 aiProvider 값으로 고릅니다. 법률 문구는 전문가 확인을 권합니다.",
+
+  "openai": {
+    "recipient": "OpenAI, L.L.C.",
+    "country": "미국",
+    "retention": "AI 회사는 악용 감시를 위해 최대 30일 보관한 뒤 삭제하며, AI 학습에는 쓰지 않습니다.",
+    "verified": true
+  },
+
+  "google": {
+    "recipient": "Google LLC",
+    "country": "미국",
+    "retention": "AI 회사는 악용 감시를 위해 정해진 기간 보관한 뒤 삭제하며, 유료 이용이라 AI 학습에는 쓰지 않습니다.",
+    "verified": false,
+    "_확인필요": "Google 유료 API의 정확한 보관 기간은 아직 확인하지 않았습니다. 이 제공사로 바꾸기 전에 약관을 확인해 retention 문구를 고쳐 주세요."
+  }
+}
